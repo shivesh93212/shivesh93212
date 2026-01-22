@@ -40,8 +40,17 @@
 
 ---
 
-## 🤝 Connect With Me
-- GitHub: https://github.com/shivesh93212
+## 📊 GitHub Stats
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=shivesh93212&theme=dark&ring_color=2a2a2a&fire_color=2a2a2a&currStreakNum=dcdcdc&sideNums=9a9a9a&sideLabels=7a7a7a)](https://github.com/Shivyy247)
+
+
+---
+
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivesh-patel-3710a6277/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shivesh_93/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivesh93212)
+
 
 ---
 
