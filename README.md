@@ -50,7 +50,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivesh-patel-3710a6277/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shivesh_93/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivesh93212)
-[![GfG](https://img.shields.io/badge/GfG-181717?style=for-the-badge&logo=GfG&logoColor=Red)](https://www.geeksforgeeks.org/profile/shivesh93?tab=activity).
+[![GfG](https://img.shields.io/badge/GfG-181717?style=for-the-badge&logo=GfG&logoColor=yellow)](https://www.geeksforgeeks.org/profile/shivesh93?tab=activity)
 
 
 ---
