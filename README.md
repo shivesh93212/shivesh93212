@@ -1,6 +1,6 @@
 # Hi, I'm Shivesh Patel👋
 
-**Python Backend Developer | Engineer in the making**
+**Python Full-Stack Developer | Engineer in the making**
 
 ---
 
